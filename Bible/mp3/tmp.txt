@@ -1,0 +1,32 @@
+01_Kejadian.mp3
+01_Kejadian.zip
+40_Matius.mp3
+40_Matius.zip
+41_Markus.mp3
+41_Markus.zip
+43_Yohanes.mp3
+43_Yohanes.zip
+44_KisaParaRasul.mp3
+44_KisaParaRasul.zip
+45_ROM.mp3
+45_Roma.zip
+46_1 Korintus.mp3
+46_1 Korintus.zip
+51_Kolase.mp3
+51_Kolase.zip
+56_Titus.mp3
+56_Titus.zip
+57_Filemon.mp3
+57_Filemon.zip
+59_Yakobus.mp3
+59_Yakobus.zip
+62_1 Yohanes.mp3
+62_1 Yohanes.zip
+63_2 Yohanes.mp3
+63_2 Yohanes.zip
+64_3 Yohanes.mp3
+64_3 Yohanes.zip
+65_Yudas.mp3
+65_Yudas.zip
+Alkitab_Maybrat_MP3.zip
+tmp.txt
